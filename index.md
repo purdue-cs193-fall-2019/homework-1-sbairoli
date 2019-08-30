@@ -1,4 +1,11 @@
-## Shivam's First CS193 Homework
+# Shivam's First CS193 Homework 
+## Favourite things about CS 193
+
+- The class is very intresting 
+- The instructors seem kind of cool
+- I get to learn many new things
+- The class does not seem so hard
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
